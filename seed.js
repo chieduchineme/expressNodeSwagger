@@ -1,7 +1,7 @@
 const mongoose = require('mongoose');
 const Item = require('./models/Item'); // adjust path if needed
 
-const mongoURI = 'mongodb+srv://NemelumEdu:Bakedbread%4064@cluster0.ihv7ux8.mongodb.net/?retryWrites=true&w=majority&dbName=mernitems';
+// const mongoURI = 
 
 const items = [
   { name: 'Apples' },
